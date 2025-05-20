@@ -1,4 +1,4 @@
-# Olá, seja bem-vindo(a)! 👋
+# Olá, seja bem-vindo(a)!
 
 Eu sou o **Guilherme Medeiros** 🧠  
 🎯 Desenvolvedor em formação e apaixonado por tecnologia.
