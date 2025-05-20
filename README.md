@@ -1,6 +1,4 @@
-# Olá, seja bem-vindo(a)!
-
-Eu sou o **Guilherme Medeiros** 🧠  
+Olá, eu sou o **Guilherme Medeiros** 🧠  
 🎯 Desenvolvedor em formação e apaixonado por tecnologia.
 
 ✅ Concluí o curso técnico em **Desenvolvimento de Sistemas** pelo SENAC-RS  
