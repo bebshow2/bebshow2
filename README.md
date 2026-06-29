@@ -4,6 +4,9 @@ Desenvolvedor em formação, com foco em **Front-end** e interesse em desenvolvi
 
 Atualmente curso **Ciência da Computação** e sigo aprimorando meus conhecimentos em programação, interfaces web e desenvolvimento de aplicações.
 
+Tenho estudado **HTML, CSS, JavaScript, TypeScript e Lua**.
+
+
 ---
 
 ## Tecnologias
@@ -11,6 +14,7 @@ Atualmente curso **Ciência da Computação** e sigo aprimorando meus conhecimen
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge\&logo=java\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
 
